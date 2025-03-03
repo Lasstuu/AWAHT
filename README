@@ -26,3 +26,6 @@ Card can be moved up and down inside column with arrow up and down buttons, and 
 | Double click for editing texts   | 4              |
 | Multiple different user support   | 5              |
 
+**AI Declaration**
+GitHub Copilot was used for syntax debugging, overall proofreading and for idea creation on how to implement certain functions.
+No other AI tools were used.
